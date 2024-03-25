@@ -1,0 +1,8 @@
+{
+  "x-polygon-action": "CREATE",
+  "x-polygon-action-note": "tracked in SPT-XXX",
+  "ticker": "IYT",
+  "execution_date": "2024-03-07",
+  "split_from": 1,
+  "split_to": 4
+}
