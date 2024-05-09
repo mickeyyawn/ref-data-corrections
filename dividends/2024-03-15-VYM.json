@@ -1,5 +1,6 @@
 {
   "x-polygon-action": "CREATE",
+  "x-polygon-action-note": "this dividend was missing in EDI data. tracked in SPT-XXX",
   "cash_amount": 0.6555,
   "currency_id": "USD",
   "declaration_date": "2024-02-29",
