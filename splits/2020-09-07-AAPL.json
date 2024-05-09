@@ -1,0 +1,8 @@
+{
+  "x-polygon-action": "DELETE",
+  "x-polygon-action-note": "Erroneously reported by EDI. This removes it. tracked in SPT-XXX",
+  "ticker": "AAPL",
+  "execution_date": "2024-03-07",
+  "split_from": 1,
+  "split_to": 4
+}
